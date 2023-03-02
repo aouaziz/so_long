@@ -1,7 +1,7 @@
 so_long
 
 <p align="center">
-  <img src="https://github.com/aouaziz/so_long/assets/so_long.png" alt="so_long 2D game"/>
+  <img src="https://github.com/aouaziz/so_long/blob/main/assets/so_long.png" alt="so_long 2D game"/>
 </p>
 
  <!-- Project Name -->
@@ -15,7 +15,7 @@ so_long
 </p>
 
 ###  Screenshot:
-<img src="https://github.com/aouaziz/so_long/assets/map.png"/>
+<img src="https://github.com/aouaziz/so_long/blob/main/assets/map.png"/>
 
 ### Installing and running the project:
 
@@ -68,4 +68,4 @@ so_long
 ### Useful links:
 - https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 - https://itch.io/
-- https://opengameart.org/  
+- https://opengameart.org/
